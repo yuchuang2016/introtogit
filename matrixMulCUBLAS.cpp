@@ -47,7 +47,7 @@
 // in Proc. 2008 ACM/IEEE Conf. on Supercomputing (SC '08),
 // Piscataway, NJ: IEEE Press, 2008, pp. Art. 31:1-11.
 //
-
+// FIX BUG
 // Utilities and system includes
 #include <assert.h>
 #include <helper_string.h>  // helper for shared functions common to CUDA Samples
