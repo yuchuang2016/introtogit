@@ -1,5 +1,4 @@
-% A signal is composed of two cosine signals with f1 = 5Hz and f2 = 30Hz
-% The filter can get rid of the 15Hz part of the signal
+
 
 clear; clc; close all;
 
